@@ -1,44 +1,45 @@
-# Živjo 👋 Jaz sem Jaša Veličkov
+# 👋 Pozdravljen, sem Jaša Veličkov
 
-🎓 Študent – tehnik računalništva, ki se uči graditi rešitve, raziskuje tehnologije  
-in postopoma stopa v svet razvoja programske opreme.
+🎓 Dijak programa tehnik računalništva, ki ga zanima razvoj programske opreme,  
+logično razmišljanje in praktična uporaba tehnologij.
 
+---
 
-## 👨‍💻 O meni
+## 🧠 Kdo sem
 
-- 💻 Zanima me razvoj programske opreme in delo z bazami podatkov  
-- 📚 Nenehno se učim novih tehnologij in utrjujem osnove  
-- 🎯 Osredotočen sem na pisanje čiste, praktične in učinkovite kode  
+Rad raziskujem, kako stvari delujejo v ozadju – od baz podatkov do aplikacijske logike.  
+Pri učenju mi je pomembno razumevanje osnov in postopno nadgrajevanje znanja skozi prakso.
 
+---
 
-## 🚀 Trenutno se učim
+## 📖 Trenutno razvijam znanje na področjih
 
-- 💎 **SQL** – delo z bazami, poizvedbe in podatkovna logika  
-- ☕ **Java** – osnove OOP in razvoj aplikacij  
-- 🌐 **HTML** – gradnja spletnih struktur  
-- 🖥️ **PowerShell** – avtomatizacija in administracija v Windows okolju  
+- 🗄️ **SQL** – struktura baz, poizvedbe in obdelava podatkov  
+- ☕ **Java** – objektno usmerjeno programiranje  
+- 🌐 **HTML** – osnove spletnih strani  
+- 🖥️ **PowerShell** – skripte za avtomatizacijo in sistemska opravila  
 
+---
 
-## 🎯 Moji cilji
+## 🚀 Kam želim priti
 
-- 📈 Postati samozavesten razvijalec  
-- 🧠 Nadgraditi znanje v programerskih jezikih  
-- 🛠️ Sčasoma delati na večjih projektih  
-- 🌍 Prispevati k odprtokodnim (open-source) projektom  
+- ✅ utrditi temelje programiranja  
+- 📈 razviti samostojnost pri reševanju problemov  
+- 🧩 sodelovati pri večjih projektih  
+- 🌍 v prihodnosti prispevati k open-source skupnosti  
 
+---
 
+## 🛠️ Orodja in tehnologije
 
-## 🧰 Tehnološki sklad
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Jeziki & orodja:
+---
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📬 Kontakt in povezave
 
-
-## 📫 Kontakt
-
-- 📧 **Email:** jasavelickov@gmail.com  
+- ✉️ **Email:** jasavelickov@gmail.com 
