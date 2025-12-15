@@ -1,36 +1,29 @@
-# 👋 Pozdravljen, sem Jaša Veličkov
+# 👋 Hi, I'm Jaša Veličkov
 
-🎓 Dijak programa tehnik računalništva, ki ga zanima razvoj programske opreme,  
-logično razmišljanje in praktična uporaba tehnologij.
+🎓 A computer engineering student interested in software development,  
+logical problem-solving, and the practical use of technology.
 
----
 
-## 🧠 Kdo sem
 
-Rad raziskujem, kako stvari delujejo v ozadju – od baz podatkov do aplikacijske logike.  
-Pri učenju mi je pomembno razumevanje osnov in postopno nadgrajevanje znanja skozi prakso.
+## 📖 Currently Learning
 
----
-
-## 📖 Trenutno razvijam znanje na področjih
-
-- 🗄️ **SQL** – struktura baz, poizvedbe in obdelava podatkov  
-- ☕ **Java** – objektno usmerjeno programiranje  
-- 🌐 **HTML** – osnove spletnih strani  
-- 🖥️ **PowerShell** – skripte za avtomatizacijo in sistemska opravila  
+- 🗄️ **SQL** – database structure, queries, and data handling  
+- ☕ **Java** – object-oriented programming fundamentals  
+- 🌐 **HTML** – web structure and basics  
+- 🖥️ **PowerShell** – scripting, automation, and system tasks  
 
 ---
 
-## 🚀 Kam želim priti
+## 🚀 Goals
 
-- ✅ utrditi temelje programiranja  
-- 📈 razviti samostojnost pri reševanju problemov  
-- 🧩 sodelovati pri večjih projektih  
-- 🌍 v prihodnosti prispevati k open-source skupnosti  
+- ✅ strengthen my programming foundations  
+- 📈 become more confident in problem-solving  
+- 🧩 contribute to larger projects  
+- 🌍 eventually participate in open-source projects  
 
 ---
 
-## 🛠️ Orodja in tehnologije
+## 🛠️ Tools & Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -40,6 +33,6 @@ Pri učenju mi je pomembno razumevanje osnov in postopno nadgrajevanje znanja sk
 
 ---
 
-## 📬 Kontakt in povezave
+## 📬 Contact
 
-- ✉️ **Email:** jasavelickov@gmail.com 
+- ✉️ **Email:** jasavelickov@gmail.com  
